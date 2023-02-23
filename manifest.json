@@ -1,9 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/bennett-sh/schemas/main/hm/smf-mod.v2.schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
+	"id": "BSh.DartsNormalGravity",
+	"name": "Normal Darts Gravity",
+	"description": "Makes darts have the same gravity as most other bullets",
+	"authors": ["BSh"],
+	"contentFolders": [ "content" ],
+	"thumbs": [ "ConsoleCmd OnlineResources_Disable 1" ],
 	"frameworkVersion": "2.12.4"
 }
